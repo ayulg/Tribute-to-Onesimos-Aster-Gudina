@@ -12,7 +12,7 @@ A visually engaging tribute page dedicated to three extraordinary figures bound 
 - **Aster Ganno** (c.1872–1964) — Folklorist who preserved 500 traditional Oromo proverbs, riddles, and songs
 - **Gudina Tumsa** (1929–1979) — Theologian and martyr who lived and died for holistic faith and social justice
 
-🔗**Live Demo:** [View Website](https://ayulg.github.io/Tribute-to-Onesimos-Nesib-Aster-Ganno-Gudina-Tumsa/)
+🔗**Live Demo:** [View Website](https://ayulg.github.io/Tribute-to-Onesimos-Aster-Gudina/)
 
 ---
 
